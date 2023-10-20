@@ -1,0 +1,14 @@
+C:\ProjectsStudy\DupalTestCase\DupalTestCase\bin\Debug\net6.0\DupalTestCase.exe
+C:\ProjectsStudy\DupalTestCase\DupalTestCase\bin\Debug\net6.0\DupalTestCase.deps.json
+C:\ProjectsStudy\DupalTestCase\DupalTestCase\bin\Debug\net6.0\DupalTestCase.runtimeconfig.json
+C:\ProjectsStudy\DupalTestCase\DupalTestCase\bin\Debug\net6.0\DupalTestCase.dll
+C:\ProjectsStudy\DupalTestCase\DupalTestCase\bin\Debug\net6.0\DupalTestCase.pdb
+C:\ProjectsStudy\DupalTestCase\DupalTestCase\obj\Debug\net6.0\DupalTestCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProjectsStudy\DupalTestCase\DupalTestCase\obj\Debug\net6.0\DupalTestCase.AssemblyInfoInputs.cache
+C:\ProjectsStudy\DupalTestCase\DupalTestCase\obj\Debug\net6.0\DupalTestCase.AssemblyInfo.cs
+C:\ProjectsStudy\DupalTestCase\DupalTestCase\obj\Debug\net6.0\DupalTestCase.csproj.CoreCompileInputs.cache
+C:\ProjectsStudy\DupalTestCase\DupalTestCase\obj\Debug\net6.0\DupalTestCase.dll
+C:\ProjectsStudy\DupalTestCase\DupalTestCase\obj\Debug\net6.0\refint\DupalTestCase.dll
+C:\ProjectsStudy\DupalTestCase\DupalTestCase\obj\Debug\net6.0\DupalTestCase.pdb
+C:\ProjectsStudy\DupalTestCase\DupalTestCase\obj\Debug\net6.0\DupalTestCase.genruntimeconfig.cache
+C:\ProjectsStudy\DupalTestCase\DupalTestCase\obj\Debug\net6.0\ref\DupalTestCase.dll
